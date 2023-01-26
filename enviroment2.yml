@@ -2,6 +2,9 @@ name: COMP30830
 channels:
   - defaults
 dependencies:
-  - python
+  - python=3.9
   - scikit-learn
+  - numpy
+  - jupyterlab
+  - pandas
 prefix: /Users/eoin/opt/anaconda3/envs/COMP30830
